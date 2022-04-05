@@ -1,3 +1,3 @@
 [workspace]
 
-members = ["strsplit", "vecmac", "iter", "btreemap", "flatmap"]
+members = ["strsplit", "vecmac", "iter", "btreemap", "flatmap", "pointers"]

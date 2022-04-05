@@ -7,3 +7,4 @@ Sort of Notes on Crust of Rust by Jon Gjengset
     - `/btreemap` : Practice Declarative Macros NOT OPTIMIZED
 3. `/iter` : [Iterators](https://youtu.be/yozQ9C69pNs)
     - `/flatmap` : Practice Iterators NOT DONE
+4. `/pointers` : [Smart Pointers and Interior Mutability](https://youtu.be/8O0Nt9qY_vo)
