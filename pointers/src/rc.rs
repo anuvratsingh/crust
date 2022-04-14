@@ -1,7 +1,6 @@
+use crate::cell::Cell;
 use std::marker::PhantomData;
 use std::ptr::NonNull;
-use crate::cell::Cell;
-
 
 struct RcInner<T> {
     value: T,

@@ -8,6 +8,6 @@ Sort of Notes on Crust of Rust by Jon Gjengset
 3. `/iter` : [Iterators](https://youtu.be/yozQ9C69pNs)
    - `/flatmap` : Practice Iterators NOT DONE
 4. `/pointers` : [Smart Pointers and Interior Mutability](https://youtu.be/8O0Nt9qY_vo)
-5. `` : [Channels](https://youtu.be/b4mS5UPHh20)
+5. `/chanel` : [Channels](https://youtu.be/b4mS5UPHh20)
 6. `/sortify` : [Sorting Algorithms](https://youtu.be/h4RkCyJyXmM)
 7. `/nvec` : [Implementing Vec](https://youtu.be/3OL95gZgPWA)
